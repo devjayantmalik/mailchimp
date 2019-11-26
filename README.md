@@ -3,7 +3,7 @@
 ## Hero Section:
 
 | Element | Font | Font Size |
-| :======= | :==== | :======= |
+| :------- | :---- | :------- |
 | Heading | Georgia, 'Times New Roman', Times, serif | 3.3em |
 | Sub heading | 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif | 1.2em |
 
