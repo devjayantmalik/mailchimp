@@ -13,3 +13,6 @@ Dear visitors, I created this project to improve my coding skills. I do not want
 
 # Contributions
 You can add or remove any code from the project as per your choice. Feel free to clone the repository. It will be better for beginners to visit [mailchimp.com](https://mailchimp.com) and try to implement the design of the website as per your skills. This will definitely be a good project for you.
+
+# Let's see the website live
+visit [devjayantmalik.github.io/mailchimp](https://devjayantmalik.github.io/mailchimp) to see the live version.
