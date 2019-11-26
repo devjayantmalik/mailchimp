@@ -1,0 +1,31 @@
+
+#hero-section{
+    background-color: yellow;
+}
+
+.text-heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3.3em;
+}
+
+.text-subheading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5em;
+}
+
+#hero-image{
+    width: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.feature-image{
+    width: 500px;
+}
+
+.company-image{
+    display: block;
+    align-self: center;
+    height: 20%;
+    width: 20%;
+}
